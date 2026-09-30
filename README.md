@@ -10,6 +10,6 @@ Or `brew tap justanotheratom/tap` once, then `brew install hotty`.
 
 | Cask | App |
 |---|---|
-| `hotty` | [HoTty](https://github.com/justanotheratom/hotty): hold the trackpad on any text field and talk, with on-device dictation (macOS 26+) |
+| `hotty` | [HoTTy](https://github.com/justanotheratom/hotty), the Hold To Talk utility: hold the trackpad on any text field and talk, with on-device dictation (macOS 26+) |
 
 Casks here are updated automatically by each app's release workflow.
