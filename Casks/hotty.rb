@@ -1,15 +1,15 @@
 cask "hotty" do
-  version "0.1.1"
-  sha256 "163395c664fef2148248149db83597465956d0e864e34f88978ae9343a890ad4"
+  version "0.1.2"
+  sha256 "9d234745a9d04715516439764f5723a468d747d5923b5346fa0e5a2308824443"
 
-  url "https://github.com/justanotheratom/hotty/releases/download/v#{version}/HoTty-#{version}.zip"
-  name "HoTty"
+  url "https://github.com/justanotheratom/hotty/releases/download/v#{version}/HoTTy-#{version}.zip"
+  name "HoTTy"
   desc "Hold on any text field, speak, and let go to type"
   homepage "https://github.com/justanotheratom/hotty"
 
   depends_on macos: ">= :tahoe"
 
-  app "HoTty.app"
+  app "HoTTy.app"
 
   uninstall quit: "llc.fungee.hotty"
 
