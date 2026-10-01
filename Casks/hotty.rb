@@ -1,6 +1,6 @@
 cask "hotty" do
-  version "0.1.2"
-  sha256 "9d234745a9d04715516439764f5723a468d747d5923b5346fa0e5a2308824443"
+  version "0.1.3"
+  sha256 "3aa50fd216a52f876653ad568601ce7f8504af9fcac23a9fe72d3613ff01c2a8"
 
   url "https://github.com/justanotheratom/hotty/releases/download/v#{version}/HoTTy-#{version}.zip"
   name "HoTTy"
